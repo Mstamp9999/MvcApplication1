@@ -425,6 +425,18 @@ aside {
     margin: 5px 0 0 10px;
 }
 
+.game h3 {
+    font-size: 1.2em;
+}
+
+.game p {
+    margin: 5px 0 0 10px;
+}
+
+.game iframe {
+    border: 1px solid #333;
+    margin: 5px 0 0 10px;
+}
 
 /* forms */
 fieldset {
