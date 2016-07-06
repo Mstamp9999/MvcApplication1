@@ -31,7 +31,7 @@ namespace MvcApplication1.Controllers
 
         public ActionResult Blog()
         {
-            ViewBag.Message = "Your Blog page.";
+            ViewBag.Message = "Video Games.";
 
             return View();
         }
