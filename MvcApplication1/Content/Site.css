@@ -438,6 +438,33 @@ aside {
     margin: 5px 0 0 10px;
 }
 
+.FAQ h3 {
+    font-size: 1.2em;
+}
+
+.FAQ p {
+    margin: 5px 0 0 10px;
+}
+
+.FAQ iframe {
+    border: 1px solid #333;
+    margin: 5px 0 0 10px;
+}
+
+.FeedBack h3 {
+    font-size: 1.2em;
+}
+
+.FeedBack p {
+    margin: 5px 0 0 10px;
+}
+
+.FeedBack iframe {
+    border: 1px solid #333;
+    margin: 5px 0 0 10px;
+}
+
+
 /* forms */
 fieldset {
     border: none;
