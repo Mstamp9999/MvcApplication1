@@ -43,5 +43,19 @@ namespace MvcApplication1.Controllers
             return View();
         }
 
+        public ActionResult FAQ()
+        {
+            ViewBag.Message = "FAQ.";
+
+            return View();
+        }
+
+        public ActionResult FeedBack()
+        {
+            ViewBag.Message = "FeedBack.";
+
+            return View();
+        }
+
     }
 }
